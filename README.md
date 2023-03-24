@@ -1,0 +1,2 @@
+# Trein-Github
+Terminal treining
